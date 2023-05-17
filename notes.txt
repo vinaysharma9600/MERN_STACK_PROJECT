@@ -1,0 +1,13 @@
+Documentation of this project
+check package.json for checking dependencies
+Images ko handle krne ke liye cloudnary
+$regex : mongodb operator use for pattern matching
+$options: ”$i” is used to match both lower case and upper case pattern in the given string(i.e., “software”).
+
+bcrypt,nodemailer,validator,cookie parser body parser
+
+JWT : Let's assume you signup on any website and after signup you have to login again so it's give bad experience so JWT save the token for saved user
+
+
+crypto is used for reset password
+SMPT :- simple mail Transfer protocol
