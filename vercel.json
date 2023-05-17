@@ -1,5 +1,5 @@
 {
-    "version" : 1,
+    "version" : 2,
     "name" :"Stock Clear project",
     "builds":[{"src":"Backend/app.js","use":"@vercel/node"}],
     "routes":[{"src":"/(.*)","dest":"Backend/app.js"}]
