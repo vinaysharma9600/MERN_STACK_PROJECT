@@ -30,9 +30,6 @@ if(process.env.NODE_ENV !== "PRODUCTION"){
     env.config();
 }
 
-require("./src/models/usermodel");
-require("./src/models/productmodel");
-require("./src/models/ordermodel");
 const userRouter=require('./src/Routers/userRouter');
 const productRouter=require('./src/Routers/productRouter');
 const Orderrouter = require('./src/Routers/OrderRouter')
