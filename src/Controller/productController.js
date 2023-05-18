@@ -1,6 +1,6 @@
 const ErrorHandler = require("../../Utils/Errorhandler");
 
-const productModel = require("../models/productModel");
+const productModel = require("../models/productmodel");
 const catchAsyncErrors = require("../../Middleware/catchAsyncErrors");
 const ApiFeatures = require("../../Utils/ApiFeatures");
 const { json } = require("express/lib/response");
